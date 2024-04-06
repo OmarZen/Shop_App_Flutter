@@ -66,4 +66,22 @@ flutter run
   </div>
 </p>
 
+## Functionalities of the App
+
+### 1. Filtering
+Allow users to filter products based on various criteria such as price range, brand, size, color, etc. Users can select their preferences from dropdown menus, checkboxes, or sliders to refine the list of products displayed.
+
+### 2. Add to Cart
+Implement the ability for users to add products to their shopping cart. Each product should have an "Add to Cart" button or icon. Upon clicking, the selected product is added to the cart, and the cart icon may update to reflect the number of items in the cart.
+
+### 3. Animations for Page Transitions
+Incorporate smooth and visually appealing animations when transitioning between different pages or screens within the app. Use Flutter's animation APIs to create effects such as fade-ins, slide-ins, or scale transitions to enhance the user experience and make navigation feel seamless.
+
+### 4. Delete from Cart
+Provide users with the option to remove items from their shopping cart. Each item in the cart should have a "Remove" button or icon. Upon clicking, the selected item is removed from the cart, and the cart total may update to reflect the changes.
+
+### 5. Search Functionality
+Implement a search feature that allows users to search for specific products by entering keywords or phrases. As the user types, the app dynamically updates the displayed products to match the search query, providing real-time feedback and making it easier for users to find what they're looking for.
+
+
 
